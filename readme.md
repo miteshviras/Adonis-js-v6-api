@@ -6,7 +6,7 @@ npm required
 
 
 ## Authors
-- [@miteshViras329](https://www.github.com/miteshViras329)
+- [@miteshViras](https://www.github.com/miteshViras)
 
 ## Project Setup 
 run npm i or npm install.
