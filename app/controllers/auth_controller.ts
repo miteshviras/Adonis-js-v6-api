@@ -4,7 +4,7 @@ import { loginValidator, registerValidator } from '#validators/auth_user'
 import User from '#models/user'
 import { Exception } from '@adonisjs/core/exceptions'
 export default class AuthController {
-  async login({ request, response, auth }: HttpContext) {
+  async login({ request, response }: HttpContext) {
     const attributes = await loginValidator.validate(request.all())
     try {
       const user = await User.verifyCredentials(attributes.email, attributes.password)
