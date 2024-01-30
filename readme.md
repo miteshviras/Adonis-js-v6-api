@@ -14,7 +14,7 @@ run npm i or npm install.
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file.
-create .env file and copy all varialbles from .env.example
+create .env file and copy all variables from .env.example
 
 ## Run Database Migration
 
