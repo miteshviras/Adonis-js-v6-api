@@ -1,5 +1,10 @@
 #Adonis Js V6 Api.
 
+## System Requirements
+Node >= 20.11.0
+npm required
+
+
 ## Authors
 - [@miteshViras329](https://www.github.com/miteshViras329)
 
@@ -13,6 +18,10 @@ create .env file and copy all varialbles from .env.example
 
 ## Run Database Migration
 
-run "Node ace migration:run" for migrate tables.
+run "node ace migration:run" for migrate tables.
+
+## Documentation
+
+[Documentation](https://docs.adonisjs.com/guides/introduction)
 
 
